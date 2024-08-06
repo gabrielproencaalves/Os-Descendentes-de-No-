@@ -1,2 +1,2 @@
 # Os Descendentes de Noah
-Este repositório visa demonstrar uma das possibilidades do conjunto de ferramentas graphviz e, obviamente, a descendência bíblica de Noé.
+Este repositório visa dois objetivos. O primeiro é demonstrar a possibilidade de construção de árvores genealógicas por meio da linguagem DOT. E o segundo é, obviamente, expor a descendência de Noé segundo a Bíblia (ARC).
